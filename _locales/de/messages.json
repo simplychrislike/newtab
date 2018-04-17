@@ -1,0 +1,18 @@
+{
+  "extDesc": {
+    "message": "Setzt neue Tabs auf eine leere Seite mit einstellbarer Hintergrundfarbe.",
+    "description": "Description of the extension."
+  },
+  "titleNewTab": {
+    "message": "Neuer Tab",
+    "description": "Page title for new tabs."
+  },
+  "titleOptions": {
+    "message": "Optionen: Neuer Tab",
+    "description": "Page title for the extension's option page."
+  },
+  "lblBgColor": {
+    "message": "Hintergrundfarbe für neue Tabs",
+    "description": "Label for the background color option."
+  }
+}

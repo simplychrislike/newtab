@@ -1,0 +1,16 @@
+/*! newTab v0.0.0 | MIT License | github.com/simplychrislike/newtab */
+
+.is-centered {
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 960px;
+  position: relative;
+}
+
+.option-list {
+  background-color: #fff;
+  margin-top: 0;
+  padding: 20px;
+}
+
+.lbl-bg-color > span::before { content: '__MSG_lblBgColor__'; }
